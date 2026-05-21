@@ -7,8 +7,7 @@ This portfolio documents my progress through the CariSurg MedTech Pathways Progr
 
 **Contents**
 
-| File | Description |
- week0_triage_eda.ipyndb | Week 0 Exploratory Data Analysis |
+| week0_triage_eda.ipyndb | Week 0 Exploratory Data Analysis |
 
 **Programme**
 
