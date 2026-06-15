@@ -1,14 +1,30 @@
 # carisurg-portfolio
-CariSurg Medtech Pathways Programme - Week 0 triage EDA
 
-**About**
+This repo keeps my work for the CariSurg MedTech Pathways Programme.
 
-This portfolio documents my progress through the CariSurg MedTech Pathways Programme, starting with Week 0 triage EDA
+## Folders
 
-**Contents**
+- `notebooks/`: Jupyter notebooks for the programme assignments.
+- `docs/`: written submissions, reports, and PDF exports.
+- `data/`: data files that are approved to share in this repo.
 
-| week0_triage_eda.ipyndb | Week 0 Exploratory Data Analysis |
+## Running the notebooks
 
-**Programme**
+1. Create and activate a Python environment.
+2. Install the packages:
 
-CariSurg Medtech Pathways Programme - Cohort 2026
+```bash
+pip install -r requirements.txt
+```
+
+3. Open Jupyter:
+
+```bash
+jupyter notebook
+```
+
+4. Open the notebooks from the `notebooks/` folder.
+
+## Week 2 changes
+
+For Week 2, I organized the repo structure, added setup files, and moved notebooks and documents into clearer folders so the branch is ready for a pull request into `main`.
